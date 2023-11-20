@@ -1,0 +1,12 @@
+frmMain = 44, 44, 633, 566, , 22, 22, 611, 544, 
+modGeneral = 154, 154, 743, 676, 
+modSwitches = 198, 198, 787, 720, 
+modMaps = 242, 242, 831, 764, 
+modPlayer = 0, 0, 589, 522, 
+modGeyser2 = 198, 198, 787, 720, 
+modTiles = 44, 44, 633, 566, 
+modViewport = 22, 22, 611, 544, 
+modColCodes = 22, 22, 606, 544, Z
+clsColCodeList = 66, 66, 650, 588, 
+clsMap = 44, 44, 628, 566, 
+clsHotspot = 110, 110, 694, 632, 

@@ -1,0 +1,6 @@
+frmBattle = 0, 0, 0, 0, C, 22, 22, 637, 482, 
+clsCreature = 44, 44, 659, 504, C
+modMain = 22, 22, 606, 482, C
+frmStartUp = 66, 66, 650, 526, C, 44, 44, 628, 504, Z
+clsHero = 0, 0, 584, 460, C
+clsCollection = 22, 22, 606, 482, C

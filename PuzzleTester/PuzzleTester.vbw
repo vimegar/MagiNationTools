@@ -1,0 +1,15 @@
+frmMain = 66, 66, 650, 588, , 22, 22, 606, 544, Z
+modMain = 44, 44, 628, 566, 
+clsMap = 88, 88, 672, 610, 
+clsHotspot = 110, 110, 694, 632, 
+clsSwitch = 132, 132, 716, 654, 
+clsPlayer = 154, 154, 738, 676, 
+modPlayer = 176, 176, 760, 698, C
+modMap = 44, 44, 628, 566, 
+modWinAPI = 176, 176, 760, 698, C
+modTiles = 66, 66, 650, 588, 
+clsColCodes = 242, 242, 826, 764, 
+modColCodes = 154, 154, 738, 676, 
+modHotspot = 154, 154, 738, 676, 
+modSwitch = 198, 198, 782, 720, C
+modGeyser2 = 132, 132, 716, 654, 

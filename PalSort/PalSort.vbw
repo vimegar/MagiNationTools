@@ -1,0 +1,7 @@
+frmPalSort = 220, 220, 817, 742, , 22, 22, 619, 544, 
+modPalSort = 132, 132, 729, 654, Z
+clsRGB = 154, 154, 751, 676, 
+clsOffscreen = 0, 0, 0, 0, C
+clsPool = 176, 176, 773, 698, 
+clsPalFromTile = 198, 198, 795, 720, 
+clsPalFromPal = 220, 220, 817, 742, 
