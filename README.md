@@ -9,4 +9,4 @@ This link provides steps for installing and running it on Windows 10: https://ww
 Note that it uses a no-longer-available download for the files. Also, the steps about setting compatibility mode don't seem to be necessary.
 (If anyone has more complete and up-to-date instructions for installing VB6, please share them--I don't remember everything I did to get it working.)
 
-See also: https://github.com/vimegar/MagiNationtools
+See also: https://github.com/vimegar/MagiNationRemaster
